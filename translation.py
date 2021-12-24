@@ -4,7 +4,7 @@ class Translation(object):
 I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
 Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
 Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
+Sυρρσɾƚ Gɾσυρ : @hkbotscreator
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -19,7 +19,7 @@ Sυρρσɾƚ Gɾσυρ : @TeleRoid14
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 NB : It is Recommended To Use A Custom Thumbnail Because, Some Time Won't Upload The File Without a Custom Thumbnail.
-Support Group : @TeleRoid14
+Support Group : @hkbotscreator
 """
 
 
@@ -37,9 +37,9 @@ Support Group : @TeleRoid14
 
 <b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
 
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
+<b>⭕ Updates : 👉 <a href='https://t.me/hkbotscreator'> Channel Group </a></b>
 
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
+<b>💎 Telegram Botlist : <a href='https://t.me/hkbotscreator'> TGRobot_List </a></b>"""
 
 
 
@@ -58,7 +58,7 @@ URL | newfilename | username | password"""
     UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @TheTeleRoid And Service Feel Free To Donate...Us 🥰</b>
   If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@PredatorHackerzZ_bot...."""
     
-    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@TheTeleRoid14"
+    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@hkbotscreator"
     
     UPLOAD_START = "Trying to upload.....📤"
     
